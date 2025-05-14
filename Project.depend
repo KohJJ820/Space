@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1720262257 source:c:\users\user\onedrive\desktop\mmu\cgd6214 - computer graphics fundamentals\project\space.cpp
+	<GL/glut.h>
+	<iostream>
+	<stdlib.h>
+	"ReadBMP.h"
+	"ImageManipulation.h"
+	<math.h>
+
+1720260133 c:\users\user\onedrive\desktop\mmu\cgd6214 - computer graphics fundamentals\project\readbmp.h
+
+1720260133 c:\users\user\onedrive\desktop\mmu\cgd6214 - computer graphics fundamentals\project\imagemanipulation.h
+
+1720260133 source:c:\users\user\onedrive\desktop\mmu\cgd6214 - computer graphics fundamentals\project\imagemanipulation.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"ReadBMP.h"
+	"ImageManipulation.h"
+
+1720260133 source:c:\users\user\onedrive\desktop\mmu\cgd6214 - computer graphics fundamentals\project\readbmp.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"ReadBMP.h"
+
+1719604376 source:d:\mmu\degree\y2t2\computer graphic fundamentals\project\planets\imagemanipulation.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"ReadBMP.h"
+	"ImageManipulation.h"
+
+1719603462 d:\mmu\degree\y2t2\computer graphic fundamentals\project\planets\readbmp.h
+
+1719603482 d:\mmu\degree\y2t2\computer graphic fundamentals\project\planets\imagemanipulation.h
+
+1719604350 source:d:\mmu\degree\y2t2\computer graphic fundamentals\project\planets\readbmp.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"ReadBMP.h"
+
+1719999653 source:d:\mmu\degree\y2t2\computer graphic fundamentals\project\planets\space.cpp
+	<GL/glut.h>
+	<iostream>
+	<stdlib.h>
+	"ReadBMP.h"
+	"ImageManipulation.h"
+	<math.h>
+
+1720260134 source:d:\mmu\degree\y2t2\computer graphic fundamentals\project\project\imagemanipulation.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"ReadBMP.h"
+	"ImageManipulation.h"
+
+1720260134 d:\mmu\degree\y2t2\computer graphic fundamentals\project\project\readbmp.h
+
+1720260134 d:\mmu\degree\y2t2\computer graphic fundamentals\project\project\imagemanipulation.h
+
+1720339440 source:d:\mmu\degree\y2t2\computer graphic fundamentals\project\project\readbmp.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"ReadBMP.h"
+
+1720700405 source:d:\mmu\degree\y2t2\computer graphic fundamentals\project\project\space.cpp
+	<GL/glut.h>
+	<iostream>
+	<stdlib.h>
+	"ReadBMP.h"
+	"ImageManipulation.h"
+	<math.h>
+	<vector>
+
+1720260134 source:c:\users\chew8\downloads\project\project\imagemanipulation.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"ReadBMP.h"
+	"ImageManipulation.h"
+
+1720260134 c:\users\chew8\downloads\project\project\readbmp.h
+
+1720260134 c:\users\chew8\downloads\project\project\imagemanipulation.h
+
+1720339440 source:c:\users\chew8\downloads\project\project\readbmp.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"ReadBMP.h"
+
+1720688685 source:c:\users\chew8\downloads\project\project\space.cpp
+	<GL/glut.h>
+	<iostream>
+	<stdlib.h>
+	"ReadBMP.h"
+	"ImageManipulation.h"
+	<math.h>
+	<vector>
+
+1720260134 source:d:\mmu\degree\y2t2\computer graphic fundamentals\project\computer_graphic_project\imagemanipulation.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"ReadBMP.h"
+	"ImageManipulation.h"
+
+1720260134 d:\mmu\degree\y2t2\computer graphic fundamentals\project\computer_graphic_project\readbmp.h
+
+1720260134 d:\mmu\degree\y2t2\computer graphic fundamentals\project\computer_graphic_project\imagemanipulation.h
+
+1720339440 source:d:\mmu\degree\y2t2\computer graphic fundamentals\project\computer_graphic_project\readbmp.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"ReadBMP.h"
+
+1720700405 source:d:\mmu\degree\y2t2\computer graphic fundamentals\project\computer_graphic_project\space.cpp
+	<GL/glut.h>
+	<iostream>
+	<stdlib.h>
+	"ReadBMP.h"
+	"ImageManipulation.h"
+	<math.h>
+	<vector>
+
